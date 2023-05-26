@@ -6,10 +6,9 @@ I'm Deniz from Netherlands, and I am a junior Data Analyst with a strong backgro
 
 Skills: PYTHON / SQL /SPREADSHEETS / HTML /TABLEAU
 
-- 🔭 I’m currently working on Data Analytics projects 
-- 🌱 I’m currently learning Python 
+- 🔭 I’m currently working on Data Analytics projects. 
+- 🌱 I’m currently learning Python. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DenizAnalytics)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/denizanalytics/)  
-
 
