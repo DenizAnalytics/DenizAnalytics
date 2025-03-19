@@ -1,5 +1,6 @@
 ### Hi there 👋, Deniz Işık
-#### IT SUPPORT
+#### IT SUPPORT 
+
 ![Data Analytics](https://media.licdn.com/dms/image/D4E16AQF7QLgfkcjYpw/profile-displaybackgroundimage-shrink_350_1400/0/1685031343980?e=1690416000&v=beta&t=aZ5kJZn3eTdt7xeRSYEq2tSdwUv30qGYPHdVUuMBnDc)
 
 I am an experienced IT support technician, currently seeking a full-time role in Information Technology. I am a computer science graduate and hold two major certificates in IT support and data analytics from Google, as well as three up-to-date certificates from Microsoft in Azure (AZ-900), Microsoft 365 (MS-900), and Dynamics 365 CRM (MB-910). I have a strong affinity for Microsoft Azure Cloud and also possess foundational experience in Google Cloud.
